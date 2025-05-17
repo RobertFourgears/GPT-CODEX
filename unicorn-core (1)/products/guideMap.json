@@ -1,0 +1,14 @@
+{
+  "guides": [
+    { "title": "Guide 1", "slug": "guide-1", "price": 20 },
+    { "title": "Guide 2", "slug": "guide-2", "price": 20 },
+    { "title": "Guide 3", "slug": "guide-3", "price": 20 },
+    { "title": "Guide 4", "slug": "guide-4", "price": 20 },
+    { "title": "Guide 5", "slug": "guide-5", "price": 20 },
+    { "title": "Guide 6", "slug": "guide-6", "price": 20 },
+    { "title": "Guide 7", "slug": "guide-7", "price": 20 },
+    { "title": "Guide 8", "slug": "guide-8", "price": 20 },
+    { "title": "Guide 9", "slug": "guide-9", "price": 20 },
+    { "title": "Guide 10", "slug": "guide-10", "price": 20 }
+  ]
+}
